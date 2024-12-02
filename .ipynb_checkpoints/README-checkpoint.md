@@ -1,6 +1,6 @@
 # Big-Ideas-Final-Project
 The final assignment for CMPINF 0010. What is the best neighborhood in Pittsburgh?
-#### Group Members: Rachelle Atchina (rka32@pitt.edu), Zoe Holm (zch11@pitt.edu), Jiya Dugad () ####
+#### Group Members: Rachelle Atchina (rka32@pitt.edu), Zoe Holm (zch11@pitt.edu), Jiya Dugad (jnd69@pitt.edu) ####
 
 Group Name: **Steel Sisters** Group #12
 
