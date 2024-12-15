@@ -9,8 +9,9 @@ Group #12
 **Metrics:**  
 1. Fires ( [Fires.csv](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02))
     * A data set that displays where fires have taken place, the type of fires, and response times.  
-3. Real Estate()
-4. Trees([Trees.csv](https://data.wprdc.org/dataset/city-trees))
+3. Real Estate([Properties.csv](https://data.wprdc.org/dataset/city-owned-property/resource/4ff5eb17-e2ad-4818-97c4-8f91fc6b6396))
+   * A data set that displays property owned by the city in given neighborhoods in Pittsburgh.
+5. Trees([Trees.csv](https://data.wprdc.org/dataset/city-trees))
    * A data set that displays the locations of all the trees in pittsburgh and their impact on air quality.
 
 
